@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js and Nodejs**
 
-- 📫 How to reach me **surajsingh972937@gmail.com**
+- 📫 How to reach me **surajsingh972937@gmail.com** OR **https://www.linkedin.com/in/suraj-singh-8n11/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gkHMEL9WIeFSnhyUeXeYUFWScilWM5su/view?usp=sharing](https://drive.google.com/file/d/1gkHMEL9WIeFSnhyUeXeYUFWScilWM5su/view?usp=sharing)
 

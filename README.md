@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently looking for [a Job in](Software Development)
+- 🔭 I’m a MERN Stack developer
 
 - 🌱 I’m currently learning **React.js and Nodejs**
 

@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a MERN Stack developer
+- 🔭 I’m a **MERN Stack developer**
 
-- 🌱 I’m currently learning **React.js and Nodejs**
+- 🌱 I’m currently learning **Angular and Blockchain**
 
 - 📫 How to reach me **surajsingh972937@gmail.com** OR **https://www.linkedin.com/in/suraj-singh-8n11/**
 

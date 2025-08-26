@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **surajsingh972937@gmail.com** OR **https://www.linkedin.com/in/suraj-singh-8n11/**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1gkHMEL9WIeFSnhyUeXeYUFWScilWM5su/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gkHMEL9WIeFSnhyUeXeYUFWScilWM5su/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

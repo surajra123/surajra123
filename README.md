@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh Chauhan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a **MERN Stack developer**
+- 🔭 I’m a **Full Stack developer**
 
-- 🌱 I’m currently learning **Angular and Blockchain**
+- 🌱 I’m currently learning **Web3 and Blockchain**
 
 - 📫 How to reach me **surajsingh972937@gmail.com** OR **https://www.linkedin.com/in/suraj-singh-8n11/**
 

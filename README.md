@@ -83,14 +83,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a> 
 
-<a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-ci-cd-226556.png" alt="ci-cd" width="40" height="40"/> 
-</a> 
 </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajra123&show_icons=true&locale=en&layout=compact" alt="surajra123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajra123&show_icons=true&locale=en" alt="surajra123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajra123&" alt="surajra123" /></p>

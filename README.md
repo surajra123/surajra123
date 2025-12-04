@@ -7,8 +7,8 @@
   <a href="https://github.com/surajra123?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/surajra123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/surajra123?tab=followers">
-  <img src="https://komarev.com/ghpvc/?username=surajra123&label=Profile%20views&color=0e75b6&style=flat" alt="surajra123" /> </a>
-  <a href="https://wakatime.com/@6272f51b-f805-4bdd-848f-e3a45d99fcf4"><img src="https://wakatime.com/badge/user/6272f51b-f805-4bdd-848f-e3a45d99fcf4.svg" alt="Total time coded since Nov 20 2022" /></a>
+  <img src="https://komarev.com/ghpvc/?username=surajra123&label=Profile%20views&color=0e75b6&style=flat" alt="surajra123" /> 
+  </a>
 </p>
 
 
@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I love photography 📸 and basketball 🏀
 
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/Suraj_Singh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/suraj81_0) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/suraj81_0) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-8n11)
 
 
@@ -34,9 +34,7 @@
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
   <a href="#"><img alt="Rust" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="MARKDOWN" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </p>
@@ -48,6 +46,7 @@
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"></a>
   <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
   <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"></a>
   <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
@@ -60,6 +59,7 @@
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-673de6.svg?logo=hostinger&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Github Pages" src ="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -70,13 +70,13 @@
     <a href="#"><img alt="VS CODE" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="CODESANDBOX" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"></a>
     <a href="#"><img alt="CODEPEN" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)"></a>
+    <a href="#"><img alt="StackBlitz" src="https://img.shields.io/badge/StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white"></a>
 </p>
 
 ### 🎛️ Operating System
 
 <p>
     <a href="#"><img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="MACOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
     <a href="#"><img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
@@ -90,28 +90,22 @@
 <br>
 <p align="center">
 <a href="https://github.com/reddevill007">
-<img align="center" alt="Saurabh's Github stats"
-src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
+<img align="center" alt="Suraj's Github stats"
+src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=surajra123&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
 </a>
    </p>
- <br>
-  <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reddevill007&theme=onedark" alt="reddevill007" /> 
-  </a>
-</p>
  <br>
 
 
 <h2 align="center">My contribution Streak 🔥</h2>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajra123&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
  </p>
  
   <h2 align="center">Frequently used Language 📺</h2>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=surajra123&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
   </a>
  </p> 
 
